@@ -69,6 +69,32 @@ The model is highly effective at identifying potential finalists. The coefficien
 
 ![Model Results](assets/10_model_results.png)
 
-## 5. Conclusion
 
-Winning RuPaul's Drag Race is not entirely subjective. The tournament structure enforces a rigid mathematical reality: to make the finale, a queen must secure at least 2 main challenge wins and avoid lip syncing more than once. The "Challenge Dominator" archetype is the only reliable path to the crown, proving that while charisma, uniqueness, nerve, and talent are required, mathematical consistency is what actually secures the win.
+
+## 5. Survival Analysis (Cox Proportional Hazards)
+
+To complement the static finale prediction model, we conducted a time-to-event survival analysis, mirroring the seminal work of Hanna (2013). In this framework, the "event" is elimination, and queens who reach the finale are right-censored (they survived the competition).
+
+### 5.1 Kaplan-Meier Survival Estimates
+The Kaplan-Meier curves confirm that securing at least one challenge win fundamentally alters a queen's survival trajectory. Queens who never win a challenge experience a steep drop-off in survival probability around Episode 5, whereas queens with at least one win maintain a high survival probability through the late game.
+
+![Kaplan-Meier Curves](assets/12_survival_km.png)
+
+### 5.2 Cox Proportional Hazards Model
+We fit a Cox Proportional Hazards model using cumulative performance metrics (normalized per episode) and demographic covariates. The model achieved a **Concordance Index (C-statistic) of 0.703**, indicating that it correctly ranks the elimination order of queens 70.3% of the time.
+
+**Key Hazard Ratios (HR):**
+* **`wins_per_episode` (HR = 0.01, p < 0.005):** Highly protective. Increasing win rate drastically reduces the hazard of elimination.
+* **`lipsyncs_per_episode` (HR = 48.32, p < 0.005):** Highly hazardous. Frequent lip syncers face an enormous, compounding risk of elimination, statistically validating the "Lipsync Curse" in a time-dependent model.
+* **Demographics:** Age and hometown (NY, CA, PR) showed no statistically significant effect on the hazard of elimination when controlling for challenge performance.
+
+![Cox Hazard Ratios](assets/13_cox_hazard_ratios.png)
+
+### 5.3 Predicted Survival by Archetype
+Using the Cox model, we generated predicted survival curves for our four K-Means performance archetypes. The "Challenge Dominator" curve remains nearly flat (high survival probability), while the "Bottom Feeder" curve collapses almost immediately.
+
+![Cox Survival Curves](assets/14_cox_survival_curves.png)
+
+## 6. Conclusion
+
+Winning RuPaul's Drag Race is not entirely subjective. The tournament structure enforces a rigid mathematical reality: to make the finale, a queen must secure at least 2 main challenge wins and avoid lip syncing more than once. The "Challenge Dominator" archetype is the only reliable path to the crown, proving that while charisma, uniqueness, nerve, and talent are required, mathematical consistency—as proven by both logistic regression and survival analysis—is what actually secures the win.

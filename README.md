@@ -7,7 +7,8 @@ By analyzing 184 contestant-season records, this project uses machine learning a
 ## Project Structure
 
 * `rpdr_pipeline.py` — The core reproducible analytics pipeline. Handles feature engineering, K-Means clustering, Logistic Regression modeling, and generates 11 static charts plus an interactive dashboard.
-* `docs/report.md` — A comprehensive paper-style report detailing the methodology, the "Lipsync Curse", and the performance archetypes.
+* `rpdr_survival.py` — A time-to-event survival analysis using the Cox Proportional Hazards model (via `lifelines`), modeling the hazard of elimination.
+* `docs/report.md` — A comprehensive paper-style report detailing the methodology, the "Lipsync Curse", performance archetypes, and survival analysis.
 * `docs/dashboard.html` — An **interactive Plotly executive dashboard** exploring the data.
 * `docs/assets/` — 11 generated static charts supporting the report.
 * `data/staged/` — The raw and staged datasets used for analysis.
@@ -18,6 +19,7 @@ By analyzing 184 contestant-season records, this project uses machine learning a
 2. **The "Lipsync Curse" is Real:** Queens with 0 lip syncs have the highest finale rate. Hitting 2 lip syncs drops the finale probability to under 15%, and 3 lip syncs ("lip sync assassins") almost never make it.
 3. **Performance Archetypes:** K-Means clustering identifies four distinct paths through the competition: *Challenge Dominators* (~95% finale rate), *Consistent Performers* (~60%), *Safe Players* (~10%), and *Bottom Feeders* (0%).
 4. **Predictive Modeling:** A Logistic Regression model predicts finale appearances with an 87% ROC-AUC score, proving that despite reality TV producing, the tournament structure enforces a rigid mathematical reality.
+5. **Survival Analysis:** A Cox Proportional Hazards model (C-statistic: 0.703) confirms that `wins_per_episode` is highly protective against elimination (HR = 0.01), while `lipsyncs_per_episode` is highly hazardous (HR = 48.32), validating the lipsync curse in a time-dependent model.
 
 Read the full analysis in [docs/report.md](docs/report.md) or open `docs/dashboard.html` in your browser to explore the data interactively.
 
@@ -25,11 +27,12 @@ Read the full analysis in [docs/report.md](docs/report.md) or open `docs/dashboa
 
 Install the dependencies:
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn plotly
+pip install pandas numpy matplotlib seaborn scikit-learn plotly lifelines
 ```
 
 Run the pipeline:
 ```bash
 python rpdr_pipeline.py
+python rpdr_survival.py
 ```
 This will process the data, train the models, and regenerate all charts and the dashboard.
