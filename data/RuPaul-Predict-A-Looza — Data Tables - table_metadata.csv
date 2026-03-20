@@ -1,0 +1,67 @@
+table_name,column_name,column_description,column_category,column_category_description
+all_episodes,season_number,Season number.,,
+all_episodes,episode_number,Number of the episode within season.,,
+all_episodes,episode_airdate,Date that the episode was first aired.,,
+all_episodes,episode_title,Title of the episode.,,
+all_episodes,episode_type,Episode type.,Casting,Episode that showed the season casting process.
+,,,Competition,Episode that contained a maxi challenge.
+,,,Recap,Episode that served as a recap of the previous season.
+,,,Reunion,Episode that brought the contestants back together for a reunion.
+,,,Finale,Episode that featured the finale.
+all_episodes,episode_maxi_challenge_type,Episode maxi challenge type.,Sewing,Maxi challenge that required creating an outfit.
+,,,Lipsync,Maxi challenge that required lipsyncing.
+,,,Talk Show,Maxi challenge that required contestants to simulate a talk show.
+,,,Commercial,Maxi challenge that required contestants to make a commercial selling a product.
+,,,Makeover,Maxi challenge that required making over another individual.
+,,,Ball,Maxi challenge that required creating several outfits.
+,,,Dancing,Maxi challenge that required dancing live.
+,,,Acting,Maxi challenge that required acting in a video or live.
+,,,Snatch Game,Maxi challenge that required participation in the Snatch Game.
+,,,Singing,Maxi challenge that required singing live.
+,,,Personal Branding,Maxi challenge that required creating some personal branding.
+,,,Comedy,Maxi challenge that required telling stand-up or creating a comedic skit.
+,,,Music Video,Maxi challenge that required contestants to participate in a music video.
+,,,Musical,Maxi challenge that required singing and dancing live.
+,,,Runway,Maxi challenge that required showing off outfits on a runway.
+all_contestants,contestant_id,Contestant unique ID.,,
+all_contestants,season_number,Season number.,,
+all_contestants,contestant_entrance,Contestant werkroom entrance order.,,
+all_contestants,contestant_name,Contestant full name.,,
+all_contestants,age,Contestant age.,,
+all_contestants,hometown_city,Contestant hometown city.,,
+all_contestants,hometown_state,Contestant hometown state.,,
+all_contestants,season_outcome,Contestant season outcome ranking.,,
+all_contestants,handle_instagram,Contestant instagram handle. ,,
+all_contestants,handle_twitter,Contestant twitter handle.,,
+all_rankings,season_number,Season number.,,
+all_rankings,episode_number,Number of the episode within season.,,
+all_rankings,contestant_id,Contestant unique ID.,,
+all_rankings,episode_placement,Contestant episode placement.,ELIM,Contestant who lipsynced and was eliminated from the competition.
+,,,DISQ,Contestant who was disqualified from the competition.
+,,,OUT,"Contestant who removed from the competition, but not eliminated nor disqualified."
+,,,BTM2,Contestant who lipsynced and was not eliminated from the competition.
+,,,LOW,Contestant who was considered for elimination.
+,,,SAFE,Contestant who was safe from elimination and unable to win the maxi challenge.
+,,,HIGH,Contestant who was considered to win the maxi challenge.
+,,,WIN,Contestant who won the maxi challenge.
+,,,Guest,Contestant who was present at the finale.
+,,,Miss C,Contestant who won miss congenialitity and was not in the finale.
+,,,Eliminated,Contestant who was eliminated during the finale.
+,,,Runner-up,Contestant who was a runner-up in the competition.
+,,,Winner,Contestant who won the competition.
+all_social_media,contestant_id,Contestant unique ID.,,
+all_social_media,date,Data collection date.,,
+all_social_media,followers_twitter,Number of twitter followers.,,
+all_social_media,followers_instagram,Number of instagram followers.,,
+survey_votes,survey_id,Survey unique ID,,
+survey_votes,vote_id,Vote unique ID.,,
+survey_votes,contestant_id,Contestant unique ID.,,
+survey_votes,vote_result,Vote winner or loser.,WIN,Contestant who was chosen over the other contestant to be the winner in the pairing.
+,,,LOSE,Contestant who was not chosen to be the winner in the pairing.
+survey_votes,vote_date,Vote reponse date.,,
+survey_votes,vote_response_time,Vote reponse time.,,
+survey_contestants,survey_id,Survey unique ID,,
+survey_contestants,contestant_id,Contestant unique ID.,,
+survey_contestants,contestant_wins,Number of pairing wins.,,
+survey_contestants,contestant_losses,Number of pairing losses.,,
+survey_contestants,contestant_score,Contestant score ranking.,,

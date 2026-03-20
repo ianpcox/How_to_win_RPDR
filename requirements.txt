@@ -1,0 +1,2 @@
+# No required deps; run.py uses stdlib only.
+# Optional for richer EDA and plots: pandas, matplotlib

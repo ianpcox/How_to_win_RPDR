@@ -1,0 +1,185 @@
+season,contestant,age,made_finale,winner,n_wins,n_highs,n_lows,n_lipsyncs,n_episodes,age_num,followers_june2017,followers_week23,had_any_lipsync,had_any_win,highs_per_episode,hometown,is_California,is_Florida,is_Georgia,is_Illinois,is_New_York,is_Puerto_Rico,is_Texas,is_international,lipsyncs_per_episode,location,log_followers_june2017,log_followers_week23,lows_per_episode,season_num,state_or_country,total_bottom,total_top,wins_per_episode
+S01,Akashia,32,0,0,0,0,0,3,7,32.0,1189,,1,0,0.0,"Cleveland, Ohio",0,0,0,0,0,0,0,0,0.4286,"Cleveland, OH, USA",7.0817,,0.0,1,Ohio,3,0,0.0
+S01,BeBe Zahara Benet,28,1,0,3,1,0,1,7,28.0,52000,,1,1,0.1429,"Minneapolis, Minnesota",0,0,0,0,0,0,0,0,0.1429,"Minneapolis, MN, USA",10.859,,0.0,1,Minnesota,1,4,0.4286
+S01,Jade,32,1,0,0,0,1,1,7,32.0,,,1,0,0.0,"Chicago, Illinois",0,0,0,1,0,0,0,0,0.1429,NA,,,0.1429,1,Illinois,2,0,0.0
+S01,Nina Flowers,34,1,0,1,4,1,0,7,34.0,79800,105000,0,1,0.5714,"Bayamón, Puerto Rico",0,0,0,0,0,1,0,0,0.0,"Dallas, TX, USA",11.2873,11.5617,0.1429,1,Puerto Rico,1,5,0.1429
+S01,Ongina,26,0,0,2,2,0,1,7,26.0,92300,162000,1,1,0.2857,"Los Angeles, California",1,0,0,0,0,0,0,0,0.1429,"Los Angeles, CA, USA",11.4328,11.9954,0.0,1,California,1,4,0.2857
+S01,Rebecca Glasscock,26,0,0,1,1,1,3,7,26.0,3265,,1,1,0.1429,"Fort Lauderdale, Florida",0,1,0,0,0,0,0,0,0.4286,NA,8.0913,,0.1429,1,Florida,4,2,0.1429
+S01,Shannel,26,0,0,0,1,1,2,7,26.0,17500,,1,0,0.1429,"Las Vegas, Nevada",0,0,0,0,0,0,0,0,0.2857,NA,9.77,,0.1429,1,Nevada,3,1,0.0
+S01,Tammie Brown,36,0,0,0,0,0,1,7,36.0,84000,157000,1,0,0.0,"Los Angeles, California",1,0,0,0,0,0,0,0,0.1429,"Long Beach, CA, USA",11.3386,11.964,0.0,1,California,1,0,0.0
+S01,Victoria (Porkchop) Parker,39,0,0,0,0,0,1,7,39.0,,,1,0,0.0,"Raleigh, North Carolina",0,0,0,0,0,0,0,0,0.1429,,,,0.0,1,North Carolina,1,0,0.0
+S02,Jessica Wild,29,0,0,1,2,0,1,10,29.0,65900,,1,1,0.2,"San Juan, Puerto Rico",0,0,0,0,0,1,0,0,0.1,"Boston, MA, USA",11.0959,,0.0,2,Puerto Rico,1,3,0.1
+S02,Jujubee,25,1,0,0,2,1,4,10,25.0,321800,492000,1,0,0.2,"Boston, Massachusetts",0,0,0,0,0,0,0,0,0.4,NA,12.6817,13.1062,0.1,2,Massachusetts,5,2,0.0
+S02,Morgan McMichaels,28,0,0,1,0,0,2,10,28.0,117300,241000,1,1,0.0,"Mira Loma, California",1,0,0,0,0,0,0,0,0.2,"Ontario, CA, USA",11.6725,12.3926,0.0,2,California,2,1,0.1
+S02,Mystique Summers Madison,25,1,0,0,0,1,1,10,25.0,,,1,0,0.0,"Chicago, Illinois",0,0,0,1,0,0,0,0,0.1,"Fort Worth, TX, USA",,,0.1,2,Illinois,2,0,0.0
+S02,Nicole Paige Brooks,36,0,0,0,0,0,1,10,36.0,,,1,0,0.0,"Atlanta, Georgia",0,0,1,0,0,0,0,0,0.1,"Atlanta, GA, USA",,,0.0,2,Georgia,1,0,0.0
+S02,Pandora Boxx,37,0,0,0,4,1,1,10,37.0,201900,262000,1,0,0.4,"Rochester, New York",0,0,0,0,1,0,0,0,0.1,"Los Angeles, CA, USA",12.2155,12.4761,0.1,2,New York,2,4,0.0
+S02,Raven,30,1,0,2,4,0,2,10,30.0,104000,242000,1,1,0.4,"Riverside, California",1,0,0,0,0,0,0,0,0.2,"Riverside, CA, USA",11.5522,12.3967,0.0,2,California,2,6,0.2
+S02,Sahara Davenport,25,0,0,1,0,0,3,10,25.0,1476,,1,1,0.0,"New York, New York",0,0,0,0,1,0,0,0,0.3,NA,7.2978,,0.0,2,New York,3,1,0.1
+S02,Shangela,28,0,0,0,0,0,1,10,28.0,,833000,1,0,0.0,"Paris, Texas",0,0,0,0,0,0,1,0,0.1,"Los Angeles, CA, USA",,13.6328,0.0,2,Texas,1,0,0.0
+S02,Sonique,26,0,0,0,0,1,1,10,26.0,55500,,1,0,0.0,"Atlanta, Georgia",0,0,1,0,0,0,0,0,0.1,,10.9242,,0.1,2,Georgia,2,0,0.0
+S02,Tatianna,21,0,0,1,1,1,2,10,21.0,,573000,1,1,0.1,"Falls Church, Virginia",0,0,0,0,0,0,0,0,0.2,"Washington, D.C., USA",,13.2586,0.1,2,Virginia,3,2,0.1
+S02,Tyra Sanchez,21,1,0,4,2,1,0,10,21.0,128300,,0,1,0.2,"Orlando, Florida",0,1,0,0,0,0,0,0,0.0,"Atlanta, GA, USA",11.7621,,0.1,2,Florida,1,6,0.4
+S03,Alexis Mateo,30,0,0,3,2,2,4,13,30.0,59400,115000,1,1,0.1538,"Saint Petersburg, Florida",0,1,0,0,0,0,0,0,0.3077,"Las Vegas, NV, USA",10.9921,11.6527,0.1538,3,Florida,6,5,0.2308
+S03,Carmen Carrera,25,0,0,0,1,3,3,13,25.0,345500,454000,1,0,0.0769,"Elmwood Park, New Jersey",0,0,0,0,0,0,0,0,0.2308,"Los Angeles, CA, USA",12.7528,13.0259,0.2308,3,New Jersey,6,1,0.0
+S03,Delta Work,34,0,0,0,1,0,3,13,34.0,96400,116000,1,0,0.0769,"Norwalk, California",1,0,0,0,0,0,0,0,0.2308,"Los Angeles, CA, USA",11.4763,11.6614,0.0,3,California,3,1,0.0
+S03,India Ferrah,23,0,0,0,0,0,2,13,23.0,,,1,0,0.0,"Dayton, Ohio",0,0,0,0,0,0,0,0,0.1538,"Las Vegas, NV, USA",,,0.0,3,Ohio,2,0,0.0
+S03,Manila Luzon,28,1,0,3,5,1,1,13,28.0,387100,565000,1,1,0.3846,"Cottage Grove, Minnesota",0,0,0,0,0,0,0,0,0.0769,"Los Angeles, CA, USAManila, Philippines",12.8664,13.2446,0.0769,3,Minnesota,2,8,0.2308
+S03,Mariah,29,0,0,0,0,2,1,13,29.0,37900,,1,0,0.0,"Atlanta, Georgia",0,0,1,0,0,0,0,0,0.0769,"Los Angeles, CA, USA",10.5427,,0.1538,3,Georgia,3,0,0.0
+S03,Mimi Imfurst,27,0,0,0,1,0,1,13,27.0,,,1,0,0.0769,"New York, New York",0,0,0,0,1,0,0,0,0.0769,"Philadelphia, PA, USA",,,0.0,3,New York,1,1,0.0
+S03,Phoenix,29,1,0,0,0,0,1,13,29.0,,,1,0,0.0,"Atlanta, Georgia",0,0,1,0,0,0,0,0,0.0769,NA,,,0.0,3,Georgia,1,0,0.0
+S03,Raja,36,1,0,4,4,1,1,13,36.0,485100,667000,1,1,0.3077,"Los Angeles, California",1,0,0,0,0,0,0,0,0.0769,"Los Angeles, CA, USA",13.0921,13.4105,0.0769,3,California,2,8,0.3077
+S03,Shangela,29,0,0,2,1,1,3,13,29.0,261700,833000,1,1,0.0769,"Paris, Texas",0,0,0,0,0,0,1,0,0.2308,"Los Angeles, CA, USA",12.475,13.6328,0.0769,3,Texas,4,3,0.1538
+S03,Stacy Layne Matthews,25,0,0,1,1,0,2,13,25.0,34400,,1,1,0.0769,"Back Swamp, North Carolina",0,0,0,0,0,0,0,0,0.1538,"Fayetteville, NC, USA",10.4458,,0.0,3,North Carolina,2,2,0.0769
+S03,Venus D-Lite,26,0,0,0,0,0,1,13,26.0,,,1,0,0.0,"Los Angeles, California",1,0,0,0,0,0,0,0,0.0769,"Tampa, FL, USA",,,0.0,3,California,1,0,0.0
+S03,Yara Sofia,26,1,0,1,4,2,2,13,26.0,154600,202000,1,1,0.3077,"Manatí, Puerto Rico",0,0,0,0,0,1,0,0,0.1538,"Las Vegas, NV, USA",11.9486,12.216,0.1538,3,Puerto Rico,4,5,0.0769
+S04,Alisa Summers,23,0,0,0,0,0,1,12,23.0,,,1,0,0.0,"Tampa, Florida",0,1,0,0,0,0,0,0,0.0833,NA,,,0.0,4,Florida,1,0,0.0
+S04,Chad Michaels,40,1,0,2,4,1,1,12,40.0,199000,341000,1,1,0.3333,"San Diego, California",1,0,0,0,0,0,0,0,0.0833,"San Diego, CA, USA",12.2011,12.7396,0.0833,4,California,2,6,0.1667
+S04,Dida Ritz,25,0,0,0,0,2,2,12,25.0,,,1,0,0.0,"Chicago, Illinois",0,0,0,1,0,0,0,0,0.1667,"Chicago, IL, USA",,,0.1667,4,Illinois,4,0,0.0
+S04,Jiggly Caliente,30,0,0,0,0,0,3,12,30.0,99600,131000,1,0,0.0,"Queens, New York",0,0,0,0,1,0,0,0,0.25,"Manila, Philippines",11.5089,11.783,0.0,4,New York,3,0,0.0
+S04,Kenya Michaels,21,0,0,0,2,2,2,12,21.0,38400,,1,0,0.1667,"Dorado, Puerto Rico",0,0,0,0,0,1,0,0,0.1667,NA,10.5558,,0.1667,4,Puerto Rico,4,2,0.0
+S04,Lashauwn Beyond,21,0,0,0,1,0,1,12,21.0,,,1,0,0.0833,"Fort Lauderdale,Florida",0,1,0,0,0,0,0,0,0.0833,NA,,,0.0,4,Florida,1,1,0.0
+S04,Latrice Royale,39,0,0,2,2,1,3,12,39.0,431000,641000,1,1,0.1667,"South Beach, Florida",0,1,0,0,0,0,0,0,0.25,"Miami Beach, FL, USA",12.9739,13.3708,0.0833,4,Florida,4,4,0.1667
+S04,Madame LaQueer,29,1,0,1,0,1,1,12,29.0,,,1,1,0.0,"Carolina, Puerto Rico",0,0,0,0,0,1,0,0,0.0833,"Orange, CA, USA",,,0.0833,4,Puerto Rico,2,1,0.0833
+S04,Milan,36,0,0,0,0,0,3,12,36.0,5271,,1,0,0.0,"Florence, South Carolina",0,0,0,0,0,0,0,0,0.25,"New York City, NY, USA",8.5702,,0.0,4,South Carolina,3,0,0.0
+S04,Phi Phi O'Hara,25,1,0,2,4,2,1,12,25.0,,426000,1,1,0.3333,"Chicago, Illinois",0,0,0,1,0,0,0,0,0.0833,NA,,12.9622,0.1667,4,Illinois,3,6,0.1667
+S04,Sharon Needles,29,1,0,5,2,1,1,12,29.0,668000,926000,1,1,0.1667,"Pittsburgh, Pennsylvania",0,0,0,0,0,0,0,0,0.0833,"Pittsburgh, PA, USA",13.412,13.7386,0.0833,4,Pennsylvania,2,7,0.4167
+S04,The Princess,32,0,0,0,1,0,2,12,32.0,,,1,0,0.0833,"Chicago, Illinois",0,0,0,1,0,0,0,0,0.1667,"Nashville, TN, USA",,,0.0,4,Illinois,2,1,0.0
+S04,Willam,29,0,0,2,1,0,1,12,29.0,638000,881000,1,1,0.0833,"Los Angeles, California",1,0,0,0,0,0,0,0,0.0833,"Los Angeles, CA, USA",13.3661,13.6888,0.0,4,California,1,3,0.1667
+S05,Alaska,27,1,0,2,5,2,0,12,27.0,,,0,1,0.4167,"Pittsburgh, Pennsylvania",0,0,0,0,0,0,0,0,0.0,"Los Angeles, CA, USA",,,0.1667,5,Pennsylvania,2,7,0.1667
+S05,Alyssa Edwards,32,1,0,1,1,1,3,12,32.0,,,1,1,0.0833,"Mesquite, Texas",0,0,0,0,0,0,1,0,0.25,"Dallas, TX, USA",,,0.0833,5,Texas,4,2,0.0833
+S05,Coco Montrese,37,0,0,1,1,0,4,12,37.0,,129000,1,1,0.0833,"Las Vegas, Nevada",0,0,0,0,0,0,0,0,0.3333,"Las Vegas, NV, USA",,11.7676,0.0,5,Nevada,4,2,0.0833
+S05,Detox,27,0,0,1,1,1,3,12,27.0,,835000,1,1,0.0833,"Los Angeles, California",1,0,0,0,0,0,0,0,0.25,"Chicago, IL, USA",,13.6352,0.0833,5,California,4,2,0.0833
+S05,Honey Mahogany,29,0,0,0,0,0,1,12,29.0,,,1,0,0.0,"San Francisco, California",1,0,0,0,0,0,0,0,0.0833,NA,,,0.0,5,California,1,0,0.0
+S05,Ivy Winters,26,1,0,1,2,2,1,12,26.0,241800,332000,1,1,0.1667,"New York, New York",0,0,0,0,1,0,0,0,0.0833,"New York City, NY, USA",12.3959,12.7129,0.1667,5,New York,3,3,0.0833
+S05,Jade Jolie,25,0,0,0,1,1,1,12,25.0,95500,120000,1,0,0.0833,"Gainesville, Florida",0,1,0,0,0,0,0,0,0.0833,"Louisville, KY, USA",11.4669,11.6953,0.0833,5,Florida,2,1,0.0
+S05,Jinkx Monsoon,24,1,0,3,7,0,1,12,24.0,532600,826000,1,1,0.5833,"Seattle, Washington",0,0,0,0,0,0,0,0,0.0833,"Portland, OR, USA",13.1855,13.6244,0.0,5,Washington,1,10,0.25
+S05,Lineysha Sparx,24,0,0,1,1,1,1,12,24.0,30500,,1,1,0.0833,"San Juan, Puerto Rico",0,0,0,0,0,1,0,0,0.0833,"Orlando, FL, USA",10.3255,,0.0833,5,Puerto Rico,2,2,0.0833
+S05,Monica Beverly Hillz,27,0,0,0,0,0,2,12,27.0,,,1,0,0.0,"Owensboro, Kentucky",0,0,0,0,0,0,0,0,0.1667,"Chicago, IL, USA",,,0.0,5,Kentucky,2,0,0.0
+S05,Penny Tration,39,0,0,0,0,0,1,12,39.0,,,1,0,0.0,"Cincinnati, Ohio",0,0,0,0,0,0,0,0,0.0833,NA,,,0.0,5,Ohio,1,0,0.0
+S05,Roxxxy Andrews,28,1,0,2,6,2,1,12,28.0,,395000,1,1,0.5,"Orlando, Florida",0,1,0,0,0,0,0,0,0.0833,"Orlando, FL, United States",,12.8866,0.1667,5,Florida,3,8,0.1667
+S05,Serena Cha Cha,21,1,0,0,0,0,2,12,21.0,,,1,0,0.0,"Tallahassee, Florida",0,1,0,0,0,0,0,0,0.1667,,,,0.0,5,Florida,2,0,0.0
+S05,Vivienne Pinay,26,0,0,0,0,1,1,12,26.0,,,1,0,0.0,"New York, New York",0,0,0,0,1,0,0,0,0.0833,"Los Angeles, CA, USA",,,0.0833,5,New York,2,0,0.0
+S06,Adore Delano,23,1,0,4,3,2,2,13,23.0,,,1,1,0.2308,"Azusa, California",1,0,0,0,0,0,0,0,0.1538,"Los Angeles, CA, USA",,,0.1538,6,California,4,7,0.3077
+S06,April Carrión,24,0,0,0,1,0,2,13,24.0,,,1,0,0.0769,"Guaynabo, Puerto Rico",0,0,0,0,0,1,0,0,0.1538,NA,,,0.0,6,Puerto Rico,2,1,0.0
+S06,BenDeLaCreme,31,1,0,2,4,1,2,13,31.0,298600,774000,1,1,0.3077,"Seattle, Washington",0,0,0,0,0,0,0,0,0.1538,"Los Angeles, CA, USA",12.6069,13.5593,0.0769,6,Washington,3,6,0.1538
+S06,Bianca Del Rio,36,1,0,5,4,0,0,13,36.0,992100,,0,1,0.3077,"New Orleans, Louisiana",0,0,0,0,0,0,0,0,0.0,"Los Angeles, CA, USA",13.8076,,0.0,6,Louisiana,0,9,0.3846
+S06,Courtney Act,31,1,0,3,1,3,0,13,31.0,598200,,0,1,0.0769,"West Hollywood, California",1,0,0,0,0,0,0,0,0.0,"London, England, UK",13.3017,,0.2308,6,California,3,4,0.2308
+S06,Darienne Lake,41,0,0,1,1,3,4,13,41.0,91000,123000,1,1,0.0769,"Rochester, New York",0,0,0,0,1,0,0,0,0.3077,NA,11.4186,11.7199,0.2308,6,New York,7,2,0.0769
+S06,Gia Gunn,23,0,0,0,2,0,1,13,23.0,,406000,1,0,0.1538,"Chicago, Illinois",0,0,0,1,0,0,0,0,0.0769,"Los Angeles, CA, USA",,12.9141,0.0,6,Illinois,1,2,0.0
+S06,Joslyn Fox,26,0,0,0,1,3,2,13,26.0,165700,224000,1,0,0.0769,"Worcester, Massachusetts",0,0,0,0,0,0,0,0,0.1538,NA,12.0179,12.3194,0.2308,6,Massachusetts,5,1,0.0
+S06,Kelly Mantle,37,0,0,0,0,0,1,13,37.0,,,1,0,0.0,"Los Angeles, California",1,0,0,0,0,0,0,0,0.0769,"Los Angeles, CA, USA",,,0.0,6,California,1,0,0.0
+S06,Laganja Estranja,24,0,0,1,0,0,2,13,24.0,356100,503000,1,1,0.0,"Van Nuys, California",1,0,0,0,0,0,0,0,0.1538,"Los Angeles, CA, USA",12.783,13.1283,0.0,6,California,2,1,0.0769
+S06,Magnolia Crawford,27,0,0,0,0,0,1,13,27.0,,,1,0,0.0,"Seattle, Washington",0,0,0,0,0,0,0,0,0.0769,NA,,,0.0,6,Washington,1,0,0.0
+S06,Milk,25,0,0,0,1,1,1,13,25.0,525000,812000,1,0,0.0769,"New York, New York",0,0,0,0,1,0,0,0,0.0769,"New York City, NY, USA",13.1712,13.6073,0.0769,6,New York,2,1,0.0
+S06,Trinity K. Bonet,22,0,0,0,3,0,3,13,22.0,157700,227000,1,0,0.2308,"Atlanta, Georgia",0,0,1,0,0,0,0,0,0.2308,"Atlanta, GA, USA",11.9685,12.3327,0.0,6,Georgia,3,3,0.0
+S06,Vivacious,40,0,0,0,0,0,2,13,40.0,,,1,0,0.0,"New York, New York",0,0,0,0,1,0,0,0,0.1538,"New York City, NY, USA",,,0.0,6,New York,2,0,0.0
+S07,Ginger Minj,29,1,0,4,3,0,2,13,29.0,,384000,1,1,0.2308,"Orlando, Florida",0,1,0,0,0,0,0,0,0.1538,NA,,12.8584,0.0,7,Florida,2,7,0.3077
+S07,Jaidynn Diore Fierce,25,0,0,0,2,0,3,13,25.0,93000,130000,1,0,0.1538,"Nashville, Tennessee",0,0,0,0,0,0,0,0,0.2308,NA,11.4404,11.7753,0.0,7,Tennessee,3,2,0.0
+S07,Jasmine Masters,37,0,0,0,0,1,1,13,37.0,,193000,1,0,0.0,"Los Angeles, California",1,0,0,0,0,0,0,0,0.0769,NA,,12.1705,0.0769,7,California,2,0,0.0
+S07,Kandy Ho,28,0,0,0,0,1,3,13,28.0,,127000,1,0,0.0,"Cayey, Puerto Rico",0,0,0,0,0,1,0,0,0.2308,"Orlando, FL, USA",,11.752,0.0769,7,Puerto Rico,4,0,0.0
+S07,Katya,32,0,0,2,4,0,2,13,32.0,,,1,1,0.3077,"Boston, Massachusetts",0,0,0,0,0,0,0,0,0.1538,"West Hollywood, CA, USA",,,0.0,7,Massachusetts,2,6,0.1538
+S07,Kennedy Davenport,33,0,0,2,3,0,3,13,33.0,84200,227000,1,1,0.2308,"Dallas, Texas",0,0,0,0,0,0,1,0,0.2308,NA,11.341,12.3327,0.0,7,Texas,3,5,0.1538
+S07,Max,22,0,0,2,0,0,1,13,22.0,214800,277000,1,1,0.0,"Hudson, Wisconsin",0,0,0,0,0,0,0,0,0.0769,"Portsmouth, NH, USA",12.2775,12.5318,0.0,7,Wisconsin,1,2,0.1538
+S07,Miss Fame,29,0,0,0,2,4,1,13,29.0,763700,977000,1,0,0.1538,"New York, New York",0,0,0,0,1,0,0,0,0.0769,"Zürich, ZH, Switzerland",13.5459,13.7922,0.3077,7,New York,5,2,0.0
+S07,Mrs. Kasha Davis,43,1,0,0,1,0,1,13,43.0,,159000,1,0,0.0769,"Rochester, New York",0,0,0,0,1,0,0,0,0.0769,NA,,11.9767,0.0,7,New York,1,1,0.0
+S07,Pearl,23,1,0,3,2,1,2,13,23.0,693700,,1,1,0.1538,"Brooklyn, New York",0,0,0,0,1,0,0,0,0.1538,"Los Angeles, CA, USA",13.4498,,0.0769,7,New York,3,5,0.2308
+S07,Sasha Belle,28,0,0,0,0,1,1,13,28.0,,,1,0,0.0,"Iowa City, Iowa",0,0,0,0,0,0,0,0,0.0769,"Iowa City, IA, USA",,,0.0769,7,Iowa,2,0,0.0
+S07,Tempest DuJour,46,0,0,0,0,0,1,13,46.0,,135000,1,0,0.0,"Tucson, Arizona",0,0,0,0,0,0,0,0,0.0769,"Tucson, AZ, USA",,11.813,0.0,7,Arizona,1,0,0.0
+S07,Trixie Mattel,26,0,0,0,1,0,2,13,26.0,577800,,1,0,0.0769,"Milwaukee, Wisconsin",0,0,0,0,0,0,0,0,0.1538,"West Hollywood, CA, USA",13.267,,0.0,7,Wisconsin,2,1,0.0
+S07,Violet Chachki,22,1,0,5,2,2,0,13,22.0,794400,,0,1,0.1538,"Atlanta, Georgia",0,0,1,0,0,0,0,0,0.0,"Los Angeles, CA, USA",13.5853,,0.1538,7,Georgia,2,7,0.3846
+S08,Acid Betty,37,0,0,0,3,0,1,10,37.0,185800,296000,1,0,0.3,"Brooklyn, New York",0,0,0,0,1,0,0,0,0.1,NA,12.1324,12.5981,0.0,8,New York,1,3,0.0
+S08,Bob the Drag Queen,29,1,0,5,0,0,1,10,29.0,531600,974000,1,1,0.0,"Brooklyn, New York",0,0,0,0,1,0,0,0,0.1,"Los Angeles, CA, USA",13.1836,13.7892,0.0,8,New York,1,5,0.5
+S08,Chi Chi DeVayne,30,0,0,1,1,1,3,10,30.0,187900,437000,1,1,0.1,"Shreveport, Louisiana",0,0,0,0,0,0,0,0,0.3,NA,12.1437,12.9877,0.1,8,Louisiana,4,2,0.1
+S08,Cynthia Lee Fontaine,34,0,0,0,0,0,1,10,34.0,,289000,1,0,0.0,"Austin, Texas",0,0,0,0,0,0,1,0,0.1,"Austin, TX, USA",,12.5742,0.0,8,Texas,1,0,0.0
+S08,Dax ExclamationPoint,31,0,0,0,0,0,1,10,31.0,,,1,0,0.0,"Savannah, Georgia",0,0,1,0,0,0,0,0,0.1,NA,,,0.0,8,Georgia,1,0,0.0
+S08,Derrick Barry,32,0,0,1,2,2,2,10,32.0,175300,300000,1,1,0.2,"Las Vegas, Nevada",0,0,0,0,0,0,0,0,0.2,"Las Vegas, NV, USA",12.0743,12.6115,0.2,8,Nevada,4,3,0.1
+S08,Kim Chi,27,1,0,3,2,1,0,10,27.0,798500,,0,1,0.2,"Chicago, Illinois",0,0,0,1,0,0,0,0,0.0,"Los Angeles, CA, USA",13.5905,,0.1,8,Illinois,1,5,0.3
+S08,Laila McQueen,22,0,0,0,0,0,2,10,22.0,,241000,1,0,0.0,"Gloucester, Massachusetts",0,0,0,0,0,0,0,0,0.2,"Chicago, IL, USA",,12.3926,0.0,8,Massachusetts,2,0,0.0
+S08,Naomi Smalls,21,1,0,2,4,0,1,10,21.0,457500,935000,1,1,0.4,"Redlands, California",1,0,0,0,0,0,0,0,0.1,"Los Angeles, CA, USA",13.0335,13.7483,0.0,8,California,1,6,0.2
+S08,Naysha Lopez,31,0,0,0,0,0,2,10,31.0,69000,,1,0,0.0,"Chicago, Illinois",0,0,0,1,0,0,0,0,0.2,"Los Angeles, California, USA",11.1419,,0.0,8,Illinois,2,0,0.0
+S08,Robbie Turner,33,0,0,1,0,2,2,10,33.0,83100,104000,1,1,0.0,"Seattle, Washington",0,0,0,0,0,0,0,0,0.2,NA,11.3278,11.5522,0.2,8,Washington,4,1,0.1
+S08,Thorgy Thor,31,0,0,0,3,0,1,10,31.0,282100,585000,1,0,0.3,"Brooklyn, New York",0,0,0,0,1,0,0,0,0.1,"New York City, NY, USA",12.55,13.2794,0.0,8,New York,1,3,0.0
+S09,Aja,22,0,0,0,0,0,2,12,22.0,288400,949000,1,0,0.0,"Brooklyn, New York",0,0,0,0,1,0,0,0,0.1667,NA,12.5721,13.7632,0.0,9,New York,2,0,0.0
+S09,Alexis Michelle,33,0,0,1,1,2,2,12,33.0,101000,179000,1,1,0.0833,"New York, New York",0,0,0,0,1,0,0,0,0.1667,NA,11.5229,12.0951,0.1667,9,New York,4,2,0.0833
+S09,Charlie Hides,52,0,0,0,0,1,1,12,52.0,,160000,1,0,0.0,"London, UK/ Boston, Massachusetts",0,0,0,0,0,0,0,0,0.0833,"London, England, UK",,11.9829,0.0833,9,Massachusetts,2,0,0.0
+S09,Cynthia Lee Fontaine,34,0,0,0,0,0,2,12,34.0,,289000,1,0,0.0,"Austin, Texas",0,0,0,0,0,0,1,0,0.1667,"Austin, TX, USA",,12.5742,0.0,9,Texas,2,0,0.0
+S09,Eureka O'Hara,25,1,0,0,2,0,0,12,25.0,,460000,0,0,0.1667,"Johnson City, Tennessee",0,0,0,0,0,0,0,0,0.0,,,13.039,0.0,9,Tennessee,0,2,0.0
+S09,Farrah Moan,23,0,0,0,0,2,2,12,23.0,344800,793000,1,0,0.0,"Las Vegas, Nevada",0,0,0,0,0,0,0,0,0.1667,"Los Angeles, CA, USA",12.7507,13.5836,0.1667,9,Nevada,4,0,0.0
+S09,Jaymes Mansfield,26,0,0,0,0,0,1,12,26.0,,135000,1,0,0.0,"Madison, Wisconsin",0,0,0,0,0,0,0,0,0.0833,"Las Vegas, NV, USA",,11.813,0.0,9,Wisconsin,1,0,0.0
+S09,Kimora Blac,28,0,0,0,0,0,2,12,28.0,,281000,1,0,0.0,"Las Vegas, Nevada",0,0,0,0,0,0,0,0,0.1667,"Los Angeles, CA, USA",,12.5461,0.0,9,Nevada,2,0,0.0
+S09,Nina Bo'nina Brown,34,0,0,1,2,1,3,12,34.0,191700,,1,1,0.1667,"Atlanta, Georgia",0,0,1,0,0,0,0,0,0.25,"Atlanta, GA, USA",12.1637,,0.0833,9,Georgia,4,3,0.0833
+S09,Peppermint,37,1,0,1,4,1,2,12,37.0,135900,473000,1,1,0.3333,"New York, New York",0,0,0,0,1,0,0,0,0.1667,"Manhattan, New York City, NY, USA",11.8197,13.0669,0.0833,9,New York,3,5,0.0833
+S09,Sasha Velour,29,1,0,3,5,1,0,12,29.0,292100,,0,1,0.4167,"Brooklyn, New York",0,0,0,0,1,0,0,0,0.0,"Brooklyn, New York City, NY, USA",12.5849,,0.0833,9,New York,1,8,0.25
+S09,Shea Couleé,27,1,0,4,3,0,1,12,27.0,,,1,1,0.25,"Chicago, Illinois",0,0,0,1,0,0,0,0,0.0833,"Chicago, IL, USA",,,0.0,9,Illinois,1,7,0.3333
+S09,Trinity Taylor,31,1,0,3,2,2,1,12,31.0,150700,478000,1,1,0.1667,"Orlando, Florida",0,1,0,0,0,0,0,0,0.0833,,11.9231,13.0774,0.1667,9,Florida,3,5,0.25
+S09,Valentina,25,0,0,1,2,0,1,12,25.0,439200,909000,1,1,0.1667,"Los Angeles, California",1,0,0,0,0,0,0,0,0.0833,"Los Angeles, CA, USA",12.9927,13.7201,0.0,9,California,1,3,0.0833
+S10,Aquaria,21,1,0,4,1,2,0,12,21.0,,,0,1,0.0833,"Brooklyn, New York",0,0,0,0,1,0,0,0,0.0,"Brooklyn, New York City, NY, USA",,,0.1667,10,New York,2,5,0.3333
+S10,Asia O'Hara,35,1,0,2,3,2,1,12,35.0,,366000,1,1,0.25,"Dallas, Texas",0,0,0,0,0,0,1,0,0.0833,"Dallas, TX, USA",,12.8104,0.1667,10,Texas,3,5,0.1667
+S10,Blair St. Clair,22,0,0,0,2,0,1,12,22.0,,514000,1,0,0.1667,"Indianapolis, Indiana",0,0,0,0,0,0,0,0,0.0833,"Washington, D.C., USA",,13.15,0.0,10,Indiana,1,2,0.0
+S10,Dusty Ray Bottoms,29,0,0,0,1,1,1,12,29.0,,250000,1,0,0.0833,"New York, New York",0,0,0,0,1,0,0,0,0.0833,"New York City, NY, USA",,12.4292,0.0833,10,New York,2,1,0.0
+S10,Eureka O'Hara,27,1,0,2,4,0,2,12,27.0,,460000,1,1,0.3333,"Johnson City, Tennessee",0,0,0,0,0,0,0,0,0.1667,,,13.039,0.0,10,Tennessee,2,6,0.1667
+S10,Kalorie Karbdashian Williams,27,0,0,0,0,0,2,12,27.0,,132000,1,0,0.0,"Albuquerque, New Mexico",0,0,0,0,0,0,0,0,0.1667,Bad URL,,11.7906,0.0,10,New Mexico,2,0,0.0
+S10,Kameron Michaels,31,1,0,1,2,1,3,12,31.0,,645000,1,1,0.1667,"Nashville, Tennessee",0,0,0,0,0,0,0,0,0.25,"Los Angeles, CA, USA",,13.377,0.0833,10,Tennessee,4,3,0.0833
+S10,Mayhem Miller,35,0,0,1,0,0,2,12,35.0,,215000,1,1,0.0,"Riverside, California",1,0,0,0,0,0,0,0,0.1667,NA,,12.2784,0.0,10,California,2,1,0.0833
+S10,Miz Cracker,33,0,0,1,3,2,1,12,33.0,,803000,1,1,0.25,"Harlem, New York",0,0,0,0,1,0,0,0,0.0833,"Harlem, New York City, NY, USA",,13.5961,0.1667,10,New York,3,4,0.0833
+S10,Monique Heart,27,0,0,0,1,1,1,12,27.0,,255000,1,0,0.0833,"Kansas City, Missouri",0,0,0,0,0,0,0,0,0.0833,,,12.449,0.0833,10,Missouri,2,1,0.0
+S10,Monét X Change,31,0,0,0,4,0,3,12,31.0,,,1,0,0.3333,"The Bronx, New York",0,0,0,0,1,0,0,0,0.25,"Los Angeles, CA, USA",,,0.0,10,New York,3,4,0.0
+S10,The Vixen,26,0,0,1,0,1,3,12,26.0,,195000,1,1,0.0,"Chicago, Illinois",0,0,0,1,0,0,0,0,0.25,NA,,12.1808,0.0833,10,Illinois,4,1,0.0833
+S10,Vanessa Vanjie Mateo,25,0,0,0,0,0,1,12,25.0,,363000,1,0,0.0,"Tampa, Florida",0,1,0,0,0,0,0,0,0.0833,"Los Angeles, CA, USA",,12.8022,0.0,10,Florida,1,0,0.0
+S10,Yuhua Hamasaki,27,0,0,0,1,0,1,12,27.0,,214000,1,0,0.0833,"New York, New York",0,0,0,0,1,0,0,0,0.0833,"New York City, NY, USA",,12.2737,0.0,10,New York,1,1,0.0
+S11,A'Keria C. Davenport,30,1,0,2,2,0,2,14,30.0,,,1,1,0.1429,"Dallas, Texas",0,0,0,0,0,0,1,0,0.1429,,,,0.0,11,Texas,2,4,0.1429
+S11,Ariel Versace,26,0,0,0,0,1,1,14,26.0,,,1,0,0.0,"Cherry Hill, New Jersey",0,0,0,0,0,0,0,0,0.0714,"Los Angeles, CA, USA",,,0.0714,11,New Jersey,2,0,0.0
+S11,Brooke Lynn Hytes,32,1,0,3,4,1,2,14,32.0,,,1,1,0.2857,"Toronto, Ontario, Canada",0,0,0,0,0,0,0,1,0.1429,"Los Angeles, CA, USA",,,0.0714,11,Canada,3,7,0.2143
+S11,Honey Davenport,32,0,0,0,0,0,1,14,32.0,,,1,0,0.0,"Philadelphia, Pennsylvania",0,0,0,0,0,0,0,0,0.0714,"Los Angeles, CA, USA",,,0.0,11,Pennsylvania,1,0,0.0
+S11,Kahanna Montrese,25,0,0,0,0,0,2,14,25.0,,,1,0,0.0,"Las Vegas, Nevada",0,0,0,0,0,0,0,0,0.1429,"Las Vegas, NV, USA",,,0.0,11,Nevada,2,0,0.0
+S11,Mercedes Iman Diamond,30,0,0,0,0,1,2,14,30.0,,,1,0,0.0,"Minneapolis, Minnesota",0,0,0,0,0,0,0,0,0.1429,NA,,,0.0714,11,Minnesota,3,0,0.0
+S11,Nina West,39,0,0,2,1,3,1,14,39.0,,,1,1,0.0714,"Greentown, Ohio",0,0,0,0,0,0,0,0,0.0714,"Columbus, OH, USA",,,0.2143,11,Ohio,4,3,0.1429
+S11,Plastique Tiara,21,0,0,1,4,0,2,14,21.0,,,1,1,0.2857,"Dallas, Texas",0,0,0,0,0,0,1,0,0.1429,"Dallas, TX, USA",,,0.0,11,Texas,2,5,0.0714
+S11,Ra'Jah O'Hara,33,0,0,0,0,0,4,14,33.0,,,1,0,0.0,"Dallas, Texas",0,0,0,0,0,0,1,0,0.2857,NA,,,0.0,11,Texas,4,0,0.0
+S11,Scarlet Envy,26,0,0,1,0,0,2,14,26.0,,,1,1,0.0,"Louisville, Kentucky",0,0,0,0,0,0,0,0,0.1429,"Brooklyn, New York City, NY, USA",,,0.0,11,Kentucky,2,1,0.0714
+S11,Shuga Cain,40,0,0,0,2,1,3,14,40.0,,,1,0,0.1429,"Magalia, California",1,0,0,0,0,0,0,0,0.2143,"New York City, NY, USA",,,0.0714,11,California,4,2,0.0
+S11,Silky Nutmeg Ganache,28,1,0,2,1,2,1,14,28.0,,,1,1,0.0714,"Moss Point, Mississippi",0,0,0,0,0,0,0,0,0.0714,"Los Angeles, CA, USA",,,0.1429,11,Mississippi,3,3,0.1429
+S11,Soju,27,0,0,0,0,0,1,14,27.0,,,1,0,0.0,"Chicago, Illinois",0,0,0,1,0,0,0,0,0.0714,"Los Angeles, CA, USA",,,0.0,11,Illinois,1,0,0.0
+S11,Vanessa Vanjie Mateo,26,0,0,0,3,2,3,14,26.0,,363000,1,0,0.2143,"Tampa, Florida",0,1,0,0,0,0,0,0,0.2143,"Los Angeles, CA, USA",,12.8022,0.1429,11,Florida,5,3,0.0
+S11,Yvie Oddly,24,1,0,2,3,1,1,14,24.0,,,1,1,0.2143,"Denver, Colorado",0,0,0,0,0,0,0,0,0.0714,"Denver, CO",,,0.0714,11,Colorado,2,5,0.1429
+S12,Aiden Zhane,29,0,0,0,2,1,1,14,29.0,,,1,0,0.1429,"Acworth, Georgia",0,0,1,0,0,0,0,0,0.0714,"Acworth, GA, USA",,,0.0714,12,Georgia,2,2,0.0
+S12,Brita,34,0,0,0,1,1,3,14,34.0,,,1,0,0.0714,"New York, New York",0,0,0,0,1,0,0,0,0.2143,"New York City, NY, USA",,,0.0714,12,New York,4,1,0.0
+S12,Crystal Methyd,28,1,0,1,4,2,1,14,28.0,,,1,1,0.2857,"Springfield, Missouri",0,0,0,0,0,0,0,0,0.0714,"Los Angeles, CA, USA",,,0.1429,12,Missouri,3,5,0.0714
+S12,Dahlia Sin,28,0,0,0,0,1,1,14,28.0,,,1,0,0.0,"Los Angeles, California",1,0,0,0,0,0,0,0,0.0714,"Los Angeles, CA, USA",,,0.0714,12,California,2,0,0.0
+S12,Gigi Goode,21,1,0,4,1,2,0,14,21.0,,,0,1,0.0714,"Los Angeles, California",1,0,0,0,0,0,0,0,0.0,"Los Angeles, CA, USA",,,0.1429,12,California,2,5,0.2857
+S12,Heidi N Closet,24,0,0,1,2,1,4,14,24.0,,,1,1,0.1429,"Ramseur, North Carolina",0,0,0,0,0,0,0,0,0.2857,"Los Angeles, CA, USA",,,0.0714,12,North Carolina,5,3,0.0714
+S12,Jackie Cox,34,0,0,0,6,1,3,14,34.0,,,1,0,0.4286,"New York, New York",0,0,0,0,1,0,0,0,0.2143,"Manhattan, New York City, NY, USA",,,0.0714,12,New York,4,6,0.0
+S12,Jaida Essence Hall,32,1,0,4,2,0,1,14,32.0,,,1,1,0.1429,"Milwaukee, Wisconsin",0,0,0,0,0,0,0,0,0.0714,"West Allis, WI, USA",,,0.0,12,Wisconsin,1,6,0.2857
+S12,Jan,26,0,0,0,3,0,1,14,26.0,,,1,0,0.2143,"New York, New York",0,0,0,0,1,0,0,0,0.0714,"Manhattan, New York City, NY, USA",,,0.0,12,New York,1,3,0.0
+S12,Nicky Doll,28,0,0,0,1,1,2,14,28.0,,,1,0,0.0714,"New York, New York",0,0,0,0,1,0,0,0,0.1429,"New York City, NY, USA",,,0.0714,12,New York,3,1,0.0
+S12,Rock M. Sakura,28,0,0,0,0,1,1,14,28.0,,,1,0,0.0,"San Francisco, California",1,0,0,0,0,0,0,0,0.0714,"Los Angeles, CA, USA",,,0.0714,12,California,2,0,0.0
+S12,Sherry Pie,27,1,0,2,2,1,0,14,27.0,,,0,1,0.1429,"New York, New York",0,0,0,0,1,0,0,0,0.0,NA,,,0.0714,12,New York,1,4,0.1429
+S12,Widow Von'Du,30,0,0,1,1,0,2,14,30.0,,,1,1,0.0714,"Kansas City, Missouri",0,0,0,0,0,0,0,0,0.1429,NA,,,0.0,12,Missouri,2,2,0.0714
+S13,Denali,28,0,0,1,2,0,2,16,28.0,,,1,1,0.125,"Chicago, Illinois",0,0,0,1,0,0,0,0,0.125,"Chicago, IL, USA",,,0.0,13,Illinois,2,3,0.0625
+S13,Elliott with 2 Ts,26,0,0,0,1,0,2,16,26.0,,,1,0,0.0625,"Las Vegas, Nevada",0,0,0,0,0,0,0,0,0.125,"Las Vegas, NV, USA",,,0.0,13,Nevada,2,1,0.0
+S13,Gottmik,23,1,0,3,4,1,0,16,23.0,,,0,1,0.25,"Scottsdale, Arizona",0,0,0,0,0,0,0,0,0.0,"Los Angeles, CA, USA",,,0.0625,13,Arizona,1,7,0.1875
+S13,Joey Jay,30,0,0,0,0,0,1,16,30.0,,,1,0,0.0,"Phoenix, Arizona",0,0,0,0,0,0,0,0,0.0625,"Phoenix, AZ, USA",,,0.0,13,Arizona,1,0,0.0
+S13,Kahmora Hall,28,0,0,0,0,0,1,16,28.0,,,1,0,0.0,"Chicago, Illinois",0,0,0,1,0,0,0,0,0.0625,NA,,,0.0,13,Illinois,1,0,0.0
+S13,Kandy Muse,25,1,0,2,4,0,3,16,25.0,,,1,1,0.25,"New York, New York",0,0,0,0,1,0,0,0,0.1875,"Los Angeles, CA, USA",,,0.0,13,New York,3,6,0.125
+S13,LaLa Ri,30,0,0,1,0,1,2,16,30.0,,,1,1,0.0,"Atlanta, Georgia",0,0,1,0,0,0,0,0,0.125,NA,,,0.0625,13,Georgia,3,1,0.0625
+S13,Olivia Lux,26,0,0,3,0,2,2,16,26.0,,,1,1,0.0,"New York, New York",0,0,0,0,1,0,0,0,0.125,"New York City, NY, USA",,,0.125,13,New York,4,3,0.1875
+S13,Rosé,31,1,0,3,4,1,0,16,31.0,,,0,1,0.25,"New York, New York",0,0,0,0,1,0,0,0,0.0,"Manhattan, New York City, NY, USA",,,0.0625,13,New York,1,7,0.1875
+S13,Symone,25,1,0,6,2,0,2,16,25.0,,,1,1,0.125,"Conway, Arkansas",0,0,0,0,0,0,0,0,0.125,"Los Angeles, CA, USA",,,0.0,13,Arkansas,2,8,0.375
+S13,Tamisha Iman,49,0,0,0,0,1,1,16,49.0,,,1,0,0.0,"Atlanta, Georgia",0,0,1,0,0,0,0,0,0.0625,"Atlanta, GA, USA",,,0.0625,13,Georgia,2,0,0.0
+S13,Tina Burner,39,0,0,1,1,2,1,16,39.0,,,1,1,0.0625,"New York, New York",0,0,0,0,1,0,0,0,0.0625,"Manhattan, New York City, NY, USA",,,0.125,13,New York,3,2,0.0625
+S13,Utica Queen,25,0,0,1,1,2,3,16,25.0,,,1,1,0.0625,"Minneapolis, Minnesota",0,0,0,0,0,0,0,0,0.1875,"Chicago, IL, USA",,,0.125,13,Minnesota,5,2,0.0625
+S14,Alyssa Hunter,26,0,0,0,0,0,1,16,26.0,,,1,0,0.0,"Catano, Puerto Rico",0,0,0,0,0,1,0,0,0.0625,"Cataño, Puerto Rico",,,0.0,14,Puerto Rico,1,0,0.0
+S14,Angeria Paris VanMicheals,27,1,0,2,0,0,2,16,27.0,,,1,1,0.0,"Atlanta, Georgia",0,0,1,0,0,0,0,0,0.125,"Atlanta, GA, USA",,,0.0,14,Georgia,2,2,0.125
+S14,Bosco,28,1,0,3,0,0,1,16,28.0,,,1,1,0.0,"Seattle, Washington",0,0,0,0,0,0,0,0,0.0625,"Seattle, WA, USA",,,0.0,14,Washington,1,3,0.1875
+S14,Daya Betty,25,1,0,1,0,0,3,16,25.0,,,1,1,0.0,"Springfield, Missouri",0,0,0,0,0,0,0,0,0.1875,"Chicago, IL, USA",,,0.0,14,Missouri,3,1,0.0625
+S14,DeJa Skye,31,0,0,1,0,0,2,16,31.0,,,1,1,0.0,"Fresno, California",1,0,0,0,0,0,0,0,0.125,"Fresno, CA, USA",,,0.0,14,California,2,1,0.0625
+S14,Jasmine Kennedie,22,0,0,0,0,0,5,16,22.0,,,1,0,0.0,"New York, New York",0,0,0,0,1,0,0,0,0.3125,"Brooklyn, New York City, NY, USA",,,0.0,14,New York,5,0,0.0
+S14,Jorgeous,21,0,0,1,0,0,5,16,21.0,,,1,1,0.0,"Nashville, Tennessee",0,0,0,0,0,0,0,0,0.3125,"Nashville, TN, USA",,,0.0,14,Tennessee,5,1,0.0625
+S14,June Jambalaya,29,0,0,0,0,0,2,16,29.0,,,1,0,0.0,"Los Angeles, California",1,0,0,0,0,0,0,0,0.125,"Los Angeles, CA, USA",,,0.0,14,California,2,0,0.0
+S14,Kerri Colby,24,0,0,0,0,0,2,16,24.0,,,1,0,0.0,"Los Angeles, California",1,0,0,0,0,0,0,0,0.125,"Los Angeles, CA, USA",,,0.0,14,California,2,0,0.0
+S14,Kornbread (The Snack) Jete,29,1,0,1,0,0,0,16,29.0,,,0,1,0.0,"Los Angeles, California",1,0,0,0,0,0,0,0,0.0,,,,0.0,14,California,0,1,0.0625
+S14,Lady Camden,31,1,0,3,0,0,1,16,31.0,,,1,1,0.0,"San Francisco, California",1,0,0,0,0,0,0,0,0.0625,"Sacramento, CA, USA",,,0.0,14,California,1,3,0.1875
+S14,Maddy Morphosis,26,0,0,0,0,0,2,16,26.0,,,1,0,0.0,"Fayetteville, Arkansas",0,0,0,0,0,0,0,0,0.125,"Fayetteville, AR, USA",,,0.0,14,Arkansas,2,0,0.0
+S14,Orion Story,25,0,0,0,0,0,2,16,25.0,,,1,0,0.0,"Grand Rapids, Michigan",0,0,0,0,0,0,0,0,0.125,"Grand Rapids, MI, USA",,,0.0,14,Michigan,2,0,0.0
+S14,Willow Pill,26,1,1,1,0,0,2,16,26.0,,,1,1,0.0,"Denver, Colorado",0,0,0,0,0,0,0,0,0.125,"Chicago, IL, USA",,,0.0,14,Colorado,2,1,0.0625
